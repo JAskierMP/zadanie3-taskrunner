@@ -1,0 +1,100 @@
+/* Global */
+$font-header:'Island Moments', cursive;
+
+/* Navigation */
+ul {
+  min-width: 1500px;
+}
+.navigation a {
+  text-decoration: none;
+  color: black;
+}
+
+.navigation ul {
+  padding: 0;
+  margin: auto;
+  list-style-type: none;
+}
+
+.navigation li {
+  display: inline-block;
+  width: 100%;
+}
+
+.navigation {
+  padding: 20px, 100px;
+}
+
+.head {
+  background-image: url("https://cdn.pixabay.com/photo/2017/04/06/11/24/fashion-2208045_960_720.jpg");
+  padding: 20px, 100px;
+}
+
+.image {
+  position: absolute;
+}
+
+.head-inner {
+  padding-top: 200px;
+  text-align: center;
+  min-height: 400px;
+}
+
+a.btn {
+  background-color: orange;
+  padding: 10px;
+  color: white;
+}
+
+.page-subtitle {
+  font-sieze: 48px;
+}
+
+/* SERVICES */
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+  font-style: italic;
+}
+
+.services-icon {
+  color: orange;
+  font-size: 48px;
+}
+
+.box{
+  text-align: center;
+}
+
+.services {
+  padding: 40px, 100px;
+}
+
+/*PORTFOLIO  */
+
+.portfolio {
+  background-color: grey;
+}
+
+/* FOOTER */
+
+.footer ul li {
+    display: inline-block;
+    font-size: 0px;
+    margin: 0 0 0 1px;
+}
+
+.footer ul li i {
+    font-size: 30px;
+    color: white;
+    background: red;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 60px;
+  }
