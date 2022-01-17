@@ -45,7 +45,7 @@
 }
 
 a.btn {
-  background-color: orange;
+  background-color: #fed136;
   padding: 10px;
   color: white;
 }
@@ -63,3 +63,14 @@ h3 {
 h4 {
   text-align: center;
 }
+
+.services-icon {
+    color: yellow;
+    font-size: 48px;
+}
+
+/* OUR PORTFOLIO */
+
+.portfolio .box img {
+    width: 300px;
+  }
