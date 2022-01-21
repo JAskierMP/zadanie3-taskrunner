@@ -1,3 +1,8 @@
+/* Global */
+body {
+  max-width: 1125px;
+}
+
 /* Navigation */
 .navigation a {
   text-decoration: none;
